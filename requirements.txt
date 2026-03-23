@@ -1,0 +1,2 @@
+pyxel==2.8.7
+pyxel-mcp==0.8.0
