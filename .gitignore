@@ -4,6 +4,8 @@ __pycache__/
 test3/
 .venv/
 venv/
+web/
+.web_build/
 
 .DS_Store
 Thumbs.db
